@@ -4,6 +4,7 @@ This repository contains the implementation of a Microservices-based application
 The project demonstrates a microservice architecture where each service is designed around a specific business capability. The services are interconnected and provide a unified solution with centralized configurations and fault tolerance.
 
 # Key Features
+
 1. CRUD Operations
    
 Each microservice implements Create, Read, Update, and Delete operations for managing data.
